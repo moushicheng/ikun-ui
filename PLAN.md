@@ -61,12 +61,11 @@ TODO
 | Component     | Status |
 | ------------- | ------ |
 | KButton       | ✅     |
-| KCheckbox     | 🚧     |
-| KClientOnly   | 🚧     |
+| KCheckbox     | ✅     |
 | KCollapse     | 🚧     |
 | KDrawer       | 🚧     |
 | KEyeDropper   | 🚧     |
-| KIcon         | 🚧     |
+| KIcon         | ✅     |
 | KInput        | 🚧     |
 | KMask         | 🚧     |
 | KMessage      | 🚧     |
@@ -76,7 +75,7 @@ TODO
 | KPopover      | 🚧     |
 | KSelect       | 🚧     |
 | KSwitch       | 🚧     |
-| KTag          | 🚧     |
+| KTag          | ✅     |
 | KTooltip      | 🚧     |
 
 # New Component
